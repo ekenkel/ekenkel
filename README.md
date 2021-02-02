@@ -2,5 +2,9 @@
 
 - 🔭 I’m currently working on a few MERN websites
 - :student: I'm currently studying at The Ohio State University
-- 🌱 I’m currently learning Java and JavaScript
+- 🌱 My current course studies include:
+  - Java
+  - JavaScript
+  - C
+  - SQL
 - 📫 Contact Me: ekenkel7@gmail.com
