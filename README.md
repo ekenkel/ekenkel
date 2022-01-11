@@ -5,6 +5,8 @@
 - 🌱 My current course studies include:
   - Java
   - JavaScript
+  - Python
+  - Machine Learning
   - C
   - SQL
 - 📫 Contact Me: ekenkel7@gmail.com
