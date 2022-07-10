@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a few MERN websites
+- 🔭 I’m currently working on learning Spring Boot
 - :student: I'm currently studying at The Ohio State University
 - 🌱 My current course studies include:
   - Java
