@@ -10,4 +10,4 @@
   - SQL
   - JavaScript
 - 📫 Contact Me: ekenkel7@gmail.com
-- View my Website: https://www.erikkenkel.social/
+- View my Website: https://www.erikkenkel.me/
